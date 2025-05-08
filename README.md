@@ -1,4 +1,4 @@
-Linked list:- 
+LINKED LIST:- 
 
 ![add , displlay](https://github.com/user-attachments/assets/6d52c5b5-39b1-4e32-8f9d-2c7605f4b757)
 
@@ -8,13 +8,14 @@ Linked list:-
 
 
 
-Binary search:-
+
+BINARY SEARCH:-
 
 ![binary serach](https://github.com/user-attachments/assets/b8b920ca-dfbf-4b01-91c3-20ea18df6e4d)
 
 
 
-Sorting:-
+SORTING:-
 
 Merge sort-
 

@@ -17,7 +17,9 @@ Binary search:-
 Sorting:-
 
 Merge sort-
+
 ![merge](https://github.com/user-attachments/assets/0c92c3d0-db59-45ea-9a3d-51d27f53643d)
 
 Quick sort-
+
 ![quick](https://github.com/user-attachments/assets/32bfec74-5ceb-4b79-9f22-c100ef338d46)

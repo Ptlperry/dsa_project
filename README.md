@@ -7,6 +7,17 @@ Linked list:-
 ![update](https://github.com/user-attachments/assets/2e1b1abb-2a9e-4ad6-8093-d5247b985612)
 
 
+
 Binary search:-
 
 ![binary serach](https://github.com/user-attachments/assets/b8b920ca-dfbf-4b01-91c3-20ea18df6e4d)
+
+
+
+Sorting:-
+
+Merge sort-
+![merge](https://github.com/user-attachments/assets/0c92c3d0-db59-45ea-9a3d-51d27f53643d)
+
+Quick sort-
+![quick](https://github.com/user-attachments/assets/32bfec74-5ceb-4b79-9f22-c100ef338d46)

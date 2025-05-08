@@ -5,3 +5,8 @@ Linked list:-
 ![remove](https://github.com/user-attachments/assets/de832488-8a12-4f53-97eb-5eef30e4c015)
 
 ![update](https://github.com/user-attachments/assets/2e1b1abb-2a9e-4ad6-8093-d5247b985612)
+
+
+Binary search:-
+
+![binary serach](https://github.com/user-attachments/assets/b8b920ca-dfbf-4b01-91c3-20ea18df6e4d)
